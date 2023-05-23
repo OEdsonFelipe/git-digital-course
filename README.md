@@ -1,5 +1,5 @@
 ## Curso Digital: Git
 
-## Gravando mudanças no repositório 
+# Gravando mudanças no repositório 
 
-## Fala galera, aqui é o Felipe!
+# Fala galera, aqui é o Felipe!!!
